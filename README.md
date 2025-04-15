@@ -18,8 +18,11 @@ This script demonstrates a big data analysis pipeline using PySpark and Pandas, 
 Tools & Libraries Used:
 
 PySpark: For scalable data processing and aggregation on large datasets using distributed computing.
+
 Pandas: For in-memory data manipulation and easier visualization.
+
 Matplotlib: For plotting time series trends of stock closing prices.
+
 Google Colab (/content/) or a similar cloud/local environment: For executing the code (indicated by the path /content/AAPL.csv).
 
 #OUTPUT:
