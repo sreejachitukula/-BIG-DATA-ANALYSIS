@@ -16,3 +16,6 @@ Pandas: For in-memory data manipulation and easier visualization.
 Matplotlib: For plotting time series trends of stock closing prices.
 Google Colab (/content/) or a similar cloud/local environment: For executing the code (indicated by the path /content/AAPL.csv).
 
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a6155444-c6cb-4dc8-aca0-edbfef276ed2)
