@@ -1,10 +1,16 @@
 # -BIG-DATA-ANALYSIS
 COMPANY:CODETECH IT SOLUTIONS
+
 NAME:CHITUKULA SREEJA
+
 INTERN ID: CT12WQOG
+
 DOMAIN : DATA ANALYTICS
+
 DURATION : 12 WEEKS
+
 MENTOR : NEELA SANTHOSH
+
 DESCRIPTION OF THE TASK1:
 
 This script demonstrates a big data analysis pipeline using PySpark and Pandas, combined with Matplotlib for visualization. The code was written in Python and is suitable for execution in environments like Jupyter Notebook, Google Colab, or any local IDE that supports Spark.
