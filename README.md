@@ -11,11 +11,11 @@ DURATION : 12 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
-DESCRIPTION OF THE TASK1:
+# DESCRIPTION OF THE TASK1:
 
 This task demonstrates a big data analysis pipeline using PySpark and Pandas, combined with Matplotlib for visualization. The code was written in Python and is suitable for execution in environments like Jupyter Notebook, Google Colab, or any local IDE that supports Spark.
 
-Tools & Libraries Used:
+# Tools & Libraries Used:
 
 PySpark: For scalable data processing and aggregation on large datasets using distributed computing.
 
